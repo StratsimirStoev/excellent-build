@@ -1,0 +1,1 @@
+var e=`/api/inquiry`,t={display:`0887 888 498`,href:`tel:0887888498`,e164:`+359887888498`};export{t as n,e as t};
